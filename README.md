@@ -8,4 +8,4 @@ python NumericalOptimization.py
 
 N for dimensions
 
-Design your own function you want to optimize in Fitness and add a minus.
+Design the function you want to optimize in Fitness and add a minus.
